@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+envxai/
+build/
+dist/
+*.egg-info/
+.env
+.env.*
+*.csv
+*.xlsx
+*.db
+*.keras
+*.h5
+*.hdf5
+xai_outputs/
+evaluation_results/
